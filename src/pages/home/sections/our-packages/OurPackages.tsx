@@ -1,5 +1,5 @@
 import { Button } from '@/components/button';
-import { Check, X } from 'lucide-react';
+import { Check } from 'lucide-react';
 
 const items = [
   {
