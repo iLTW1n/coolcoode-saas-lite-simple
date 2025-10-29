@@ -46,7 +46,7 @@ export const TheProcess = () => {
         </span>
         <h2
           className='
-            font-semibold text-2xl mb-10 md:mb-20
+            font-semibold text-2xl mb-10 md:mb-20 md:text-3xl
           '
         >
           Built by founders, for founders
