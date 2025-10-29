@@ -125,12 +125,7 @@ export const WhyUs = () => {
         >
           {items.map((item, index) => {
             return (
-              <div
-                key={index}
-                className='
-
-                '
-              >
+              <div key={index}>
                 <div
                   className={`
                     py-3 px-4 mb-4
